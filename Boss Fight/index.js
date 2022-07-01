@@ -1,8 +1,8 @@
 const canvas = document.querySelector('canvas');
 const c = canvas.getContext('2d')
 
-canvas.width = 640
-canvas.height = 960
+canvas.width = 944
+canvas.height = 928
 
 //making canvas visible as a white rectangle
 c.fillStyle = 'white'
