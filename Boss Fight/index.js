@@ -14,5 +14,5 @@ image.src = './img/BattleGrounds.png'
 console.log(image)
 
 image.onload = () => {
-    c.drawImage(image)
+    c.drawImage(image, 0, 0)
 }
